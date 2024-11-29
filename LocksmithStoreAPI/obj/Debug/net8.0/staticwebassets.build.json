@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eR6UmOoJFYTKU+1c/INDSuWUs7iTLoald4qR5XWy1r4=",
+  "Source": "LocksmithStoreAPI",
+  "BasePath": "_content/LocksmithStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
